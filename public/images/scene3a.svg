@@ -1,0 +1,39 @@
+<svg width="600" height="400" xmlns="http://www.w3.org/2000/svg">
+  <!-- 背景 -->
+  <rect width="100%" height="100%" fill="#e6f3ff"/>
+  
+  <!-- 草地 -->
+  <rect x="0" y="300" width="600" height="100" fill="#90ee90"/>
+  
+  <!-- 花朵1 -->
+  <circle cx="120" cy="320" r="10" fill="#ff69b4"/>
+  <circle cx="120" cy="320" r="4" fill="#ffd700"/>
+  
+  <!-- 花朵2 -->
+  <circle cx="180" cy="340" r="10" fill="#ff69b4"/>
+  <circle cx="180" cy="340" r="4" fill="#ffd700"/>
+  
+  <!-- 花朵3 -->
+  <circle cx="240" cy="320" r="10" fill="#ff69b4"/>
+  <circle cx="240" cy="320" r="4" fill="#ffd700"/>
+  
+  <!-- 蝴蝶1 -->
+  <circle cx="150" cy="280" r="5" fill="#9370db"/>
+  <path d="M145,280 Q150,270 155,280" stroke="#9370db" stroke-width="2" fill="none"/>
+  <circle cx="145" cy="275" r="4" fill="#9370db"/>
+  <circle cx="155" cy="275" r="4" fill="#9370db"/>
+  
+  <!-- 蝴蝶2 -->
+  <circle cx="300" cy="250" r="5" fill="#9370db"/>
+  <path d="M295,250 Q300,240 305,250" stroke="#9370db" stroke-width="2" fill="none"/>
+  <circle cx="295" cy="245" r="4" fill="#9370db"/>
+  <circle cx="305" cy="245" r="4" fill="#9370db"/>
+  
+  <!-- 树 -->
+  <rect x="400" y="150" width="30" height="150" fill="#8b4513"/>
+  <circle cx="415" cy="120" r="60" fill="#228b22"/>
+  
+  <!-- 鸟 -->
+  <path d="M500,150 Q520,140 540,150" stroke="black" stroke-width="2" fill="none"/>
+  <path d="M500,150 Q520,160 540,150" stroke="black" stroke-width="2" fill="none"/>
+</svg> 
